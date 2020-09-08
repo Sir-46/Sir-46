@@ -8,7 +8,7 @@
 - 🌱  I’m currently learning Front-end web development; 
 - 💬  Ask me about anything, I am happy to help;
 - 📫  How to reach me: [@geeky_abhiz](https://twitter.com/geeky_abhiz);
-- 📝  [Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)
+- 📝  [Resume](https://drive.google.com/file/d/153zYP9Lz0VDTf3TSo3neoGSxSNOEM5l0/view?usp=sharing)
 
 **Languages and Tools:**  
 
