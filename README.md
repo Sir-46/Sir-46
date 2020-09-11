@@ -7,13 +7,12 @@
 - 👨🏽‍ 💻 I’m currently working on something cool :wink:;
 - 🌱  I’m currently learning Front-end web development; 
 - 💬  Ask me about anything, I am happy to help;
-- 📝  [Resume](https://drive.google.com/file/d/153zYP9Lz0VDTf3TSo3neoGSxSNOEM5l0/view?usp=sharing)
+- 📝  [Resume](https://drive.google.com/file/d/1nO6a03UjG7Sa85Qw-Q_j6ULeISOYlIA_/view?usp=sharing)
 
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/nextjs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
