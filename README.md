@@ -7,7 +7,7 @@
 - 👨🏽‍ 💻 I’m currently working on something cool :wink:;
 - 🌱  I’m currently learning Front-end web development; 
 - 💬  Ask me about anything, I am happy to help;
-- 📝  [Resume](https://drive.google.com/file/d/1nO6a03UjG7Sa85Qw-Q_j6ULeISOYlIA_/view?usp=sharing)
+- 📝  <a href="https://drive.google.com/file/d/1nO6a03UjG7Sa85Qw-Q_j6ULeISOYlIA_/view?usp=sharing" target="_blank">Resume</a> 
 
 **Languages and Tools:**  
 
