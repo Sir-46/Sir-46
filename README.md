@@ -1,13 +1,11 @@
 # Hi I'm Fadlan, Welcome to my Github Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-**Talking about Personal Stuffs:**
 
 - 👨🏽‍ 💻 I’m currently working on something cool :wink:;
-- 🌱  I’m currently learning Front-end web development; 
+- 🌱  I’m currently learning VueJS and NuxtJS; 
 - 💬  Ask me about anything, I am happy to help;
-- 📝  <a href="https://drive.google.com/file/d/1nO6a03UjG7Sa85Qw-Q_j6ULeISOYlIA_/view?usp=sharing" target="_blank">Resume</a> 
+- 📝  [Resume](https://drive.google.com/file/d/1nO6a03UjG7Sa85Qw-Q_j6ULeISOYlIA_/view?usp=sharing)?
 
 **Languages and Tools:**  
 
