@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 👨🏽‍ 💻 I’m currently working on something cool :wink:;
+- 👨🏽‍ 💻 I’m currently working on something cool;
 - 🌱  I’m currently learning VueJS and NuxtJS; 
 - 💬  Ask me about anything, I am happy to help;
 - 📝  [Resume](https://drive.google.com/file/d/1nO6a03UjG7Sa85Qw-Q_j6ULeISOYlIA_/view?usp=sharing)?
