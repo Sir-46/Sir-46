@@ -5,7 +5,7 @@
 - 👨🏽‍ 💻 I’m currently working on something cool;
 - 🌱  I’m currently learning VueJS and NuxtJS; 
 - 💬  Ask me about anything, I am happy to help;
-- 📝  [Resume](https://drive.google.com/file/d/1nO6a03UjG7Sa85Qw-Q_j6ULeISOYlIA_/view?usp=sharing)?
+- 📝  [Resume](https://drive.google.com/file/d/1Mxz2RcJkd8I5bz_9QqWPzSs4rmX1kI83/view?usp=sharing)?
 
 **Languages and Tools:**  
 
