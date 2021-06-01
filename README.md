@@ -2,9 +2,9 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 👨🏽‍ 💻 I’m currently working on something cool;
-- 🌱  I’m currently learning Flutter; 
-- 💬  Ask me about anything, I am happy to help;
+- 👨🏽‍ 💻 I’m currently working on something cool
+- 🌱  I’m currently learning Flutter
+- 💬  Ask me about anything, I am happy to help
 - 📝  [Resume](https://drive.google.com/file/d/14Lkp1LVs3Na_zDE86RiE4gxrVeJ6J2d_/view?usp=sharing)
 
 **Languages and Tools:**  
